@@ -96,7 +96,8 @@ Churn Probability
 ## 📸 Application Preview
 
 <p align="center">
-  <img src="screenshots/app.png" width="900">
+  <img width="1258" height="800" alt="image" src="https://github.com/user-attachments/assets/8657260e-cb9d-4c4a-a272-a24ee7320865" />
+
 </p>
 
 ---
