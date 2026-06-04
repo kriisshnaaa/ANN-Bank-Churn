@@ -12,7 +12,13 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?style=for-the-badge\&logo=scikitlearn)
 
 </div>
+<div align="center">
 
+<a href="https://bankchurnclassifiation.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Open_App-success?style=for-the-badge">
+</a>
+
+</div>
 ---
 
 ## 🚀 Project Overview
